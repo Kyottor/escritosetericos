@@ -15,6 +15,7 @@ author: César Rivera
 
 navbar-links:
   Sobre Mi: "aboutme"
+  Prueba: "prueba"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"

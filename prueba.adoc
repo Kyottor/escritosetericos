@@ -1,8 +1,8 @@
 ---
- permalink: /prueba/
+permalink: /prueba/
 ---
 
-= Sample Page
+= Prueba
 :url-asciidoctor: http://asciidoctor.org
 
 This is a sample page composed in AsciiDoc.
